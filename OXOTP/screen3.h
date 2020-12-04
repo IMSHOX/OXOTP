@@ -37,7 +37,7 @@ void Wifi_screen() {
   M5.Lcd.setCursor(10, 48);
   M5.Lcd.print (ssid_mac);
   M5.Lcd.setCursor(10, 58);
-  M5.Lcd.print (pass);
+  M5.Lcd.print (pass_gen);
 
 
 
