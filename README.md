@@ -1,6 +1,6 @@
 # OXOTP
 
-<p align="center"><img alt="PICTURE logo" src="img/main.png" width="600"></p>
+<p align="center"><img alt="PICTURE logo" src="img/6.png" width="600"></p>
 
 <b>FIRST OTP BASED ON M5StickC <br><br>
 
@@ -40,6 +40,15 @@ Check how the flash it's done in this section , <a href="HOW.md" target="_blank"
 <p><img  src="img/t1.png" width="500"></p>
 <p><img  src="img/2.png" width="500"></p>
 <p><img  src="img/3.png" width="500"></p>
+
+## DEVELOPED FOR DAILY USE
+
+<p><img alt="PICTURE logo" src="img/5.png" ></p>
+<p><img alt="PICTURE logo" src="img/4.png" ></p>
+
+
+
+#### Special Thanks to my friend Rayan.B 
 
 ## License 
 
