@@ -2,7 +2,7 @@
 
 <p align="center"><img alt="PICTURE logo" src="img/6.png" width="600"></p>
 
-<b>FIRST OTP BASED ON M5StickC <br><br>
+<b>FIRST OTP BASED ON M5StickC for 2FA <br><br>
 
  
 Become a patron on <a href="https://patreon.com/IMSHOX" target="_blank">PATREON.COM/IMSHOX</a>.<br>[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DIMSHOX%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/IMSHOX)
@@ -18,8 +18,7 @@ Become a patron on <a href="https://patreon.com/IMSHOX" target="_blank">PATREON.
 ## WHY M5StickC ?
 The M5StickC is a compact device with screen, battery and RTC build in with a cheap price.
 
-Less than 10 dollar M5StickC will make huge difference in quality/price with others OTPs 
-
+Less than 10 dollar M5StickC will make huge difference in quality/price with others OTPs to get a secured device for 2FA.
 
 
 
