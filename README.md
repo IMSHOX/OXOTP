@@ -3,12 +3,11 @@
 <p align="center"><img alt="PICTURE logo" src="img/6.png" width="600"></p>
 
 <b>FIRST OTP BASED ON M5StickC for 2FA <br><br>
+If you like to support : 
 
- 
-Become a patron on <a href="https://patreon.com/IMSHOX" target="_blank">PATREON.COM/IMSHOX</a>.<br>[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DIMSHOX%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/IMSHOX)
-
-
-
+////////////////////////////////////////////////////////////////////////////////////
+<a href="https://www.buymeacoffee.com/IMOX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+////////////////////////////////////////////////////////////////////////////////////
 
 ## [📟 Binaries](https://github.com/IMSHOX/OXOTP/releases/)
 
