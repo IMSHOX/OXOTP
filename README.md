@@ -1,3 +1,19 @@
+
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+# THE NEW VERSION  OF OXOTP is there 
+# MADE BY xick 
+<a href="https://github.com/xick/OXOTP-plus" target="_blank">https://github.com/xick/OXOTP-plus</a>
+
+# GO CHECK IN HIS REPO 
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
 # OXOTP
 
 <p align="center"><img alt="PICTURE logo" src="img/6.png" width="600"></p>
@@ -5,7 +21,9 @@
 <b>FIRST OTP BASED ON M5StickC for 2FA <br><br>
 If you like to support : 
 
-////////////////////////////////////////////////////////////////////////////////////
+
+
+
 <a href="https://www.buymeacoffee.com/IMOX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 ////////////////////////////////////////////////////////////////////////////////////
 
@@ -46,9 +64,8 @@ Check how the flash it's done in this section , <a href="HOW.md" target="_blank"
 
 
 
-#### Special Thanks to my friend Rayan.B 
-
 ## License 
 
 This software is licensed under the MIT License, to read the full license <a href="LICENSE" target="_blank">HERE</a>.
+
 
